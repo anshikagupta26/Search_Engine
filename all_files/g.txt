@@ -1,0 +1,4 @@
+grpc client server. recieving at both ends.
+client to server or server to client.
+grpc vs rest.
+location tracing.

@@ -1,0 +1,19 @@
+library requirments:
+
+nltk
+elasticsearch
+tika
+
+pre requisite:
+
+download elastic search 
+https://www.elastic.co/downloads/elasticsearch
+Install and setup Elasticsearch on your system and run it using command terminal.
+In stallation steps
+(a) Download and unzip Elasticsearch
+(b) Run bin/elasticsearch ( or bin elasticsearch.bat on Windows)
+(c) Run curl http://localhost:9200/ or Invoke Rest Method http://localhost:9200 with
+PowerShell.
+
+elasticsearch ---> bin ---> elasticsearch 
+
